@@ -1,3 +1,5 @@
+## Notes
+
 0.  Supplying the Initial State
   * When you create the Redux store, its initial state is determined by the root reducer.
 
